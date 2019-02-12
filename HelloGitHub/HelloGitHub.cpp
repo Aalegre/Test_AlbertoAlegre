@@ -1,7 +1,6 @@
 #include <iostream>
-using namespace std;
 
 int main() {
-	cout << "Hello GitHub" << endl;
+	std::cout << "Hello GitHub" << std::endl;
 	return 0;
 }
